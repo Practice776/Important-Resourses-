@@ -9,3 +9,5 @@ Youtube
 Books
 1.The Algorithm Design Manual by Skiena (book): https://amzn.to/2KIEYGB;
 2.Algorithms (book): https://amzn.to/2KG5b8n
+
+mycodeschool and Mit course resourse is best so see to it.
