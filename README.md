@@ -1,28 +1,28 @@
-DSA RESOURSE:-
+<h1>DSA RESOURSE:-</h1>
 
-->Youtube
-1.mycodeschool’s playlist: https://bit.ly/1NPQ2wQ;
-2.MIT course on YouTube: https://bit.ly/1BEh9D;;
-3.Stanford courses on Coursera: https://bit.ly/2g8OALL;
-4.The Google course on Udacity: https://bit.ly/2t7lRLe;
+<h2>->Youtube</h2>
+<ol>
+   <li>mycodeschool’s playlist: https://bit.ly/1NPQ2wQ</li>
+   <li>MIT course on YouTube: https://bit.ly/1BEh9D</li>
+   <li>Stanford courses on Coursera: https://bit.ly/2g8OALL</li>
+   <li>The Google course on Udacity: https://bit.ly/2t7lRLe</li>
+</ol>
 
-->Books
-1.The Algorithm Design Manual by Skiena (book): https://amzn.to/2KIEYGB;
-2.Algorithms (book): https://amzn.to/2KG5b8n
+<h2>->Books</h2>
+<ol>
+   <li>The Algorithm Design Manual by Skiena (book): https://amzn.to/2KIEYGB</li>
+   <li>Algorithms (book): https://amzn.to/2KG5b8n</li>
+</ol>
 
-Note:- mycodeschool and Mit course resourse is best so see to it.
+<h2>Note:-</h2> 
+<p>mycodeschool and Mit course resourse is best so see to it.</p>
 
 
 <div>
    <h2>Introduction</h2>
-   <code>Hello there. I am Shanmukha Sainath, working as AI Engineer at KLA Corporation. I have done my Bachelors from Department of Electronics and Electrical Communication Engineering department, IIT Kharagpur.</code>
-   <h3>Connect with me:</h3>
-   <p>
-      <a href="https://linktr.ee/shanmukh05" target="blank"><img align="center" src="https://github.com/shanmukh05/Machine-Learning-Roadmap/blob/main/linktree.png" alt="@shanmukh05" width="200"/></a>
-   </p>
+   <code>Hello there. I am Prashanth.</code>
    <h3>Why I made this?</h3>
    <p>Internet world is huge, so as resources to learn any new things. There are numerous free and paid resources to learn Machine Learning. Having many options in hand confuses and it's difficult to select best one (saying from experience). So, I have collected best resources to get started with Machine Learning and continue career in this field. </p>
-   <blockquote>Feedback and suggestions are welcome :)</blockquote>
 </div>
 <div>
    <h2>Prerequisites</h2>
@@ -430,30 +430,6 @@ Note:- mycodeschool and Mit course resourse is best so see to it.
          </li>
          <li>
             <p><a href="https://www.louisbouchard.ai/newsletter/">What's AI</a> </p>
-         </li>
-      </ul>
-      <li>People/Pages to follow</li>
-      <ul>
-         <li>LinkedIn</li>
-         <li>Twitter</li>
-         <li>Medium</li>
-      </ul>
-      <li>Cloud GPUs</li>
-      <ul>
-         <li>
-            <p><a href="https://cloud-gpus.com/">This site has all list of available Cloud GPUs and their pricing</a> </p>
-         </li>
-      </ul>
-      <li>Join these communities</li>
-      <ul>
-         <li>
-            <p><a href="https://ykilcher.com/discord">Yannic Kilcher</a> (Discord)</p>
-         </li>
-         <li>
-            <p><a href="https://www.linkedin.com/company/cord-ai1/">CORD.ai</a> (Slack)</p>
-         </li>
-         <li>
-            <p><a href="https://discord.gg/dNvTQnER">MLSpace: The Machine Learning Community (Abhishek Thakur)</a> (Discord)</p>
          </li>
       </ul>
    </ul>
